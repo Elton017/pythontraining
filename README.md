@@ -1,0 +1,2 @@
+# pythontraining
+just learning python
